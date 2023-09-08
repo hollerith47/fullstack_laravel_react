@@ -26,3 +26,5 @@ then run the following command
 ```bash
 php artisan db:seed
 ```
+
+full project on https://www.youtube.com/watch?v=qJq9ZMB2Was
